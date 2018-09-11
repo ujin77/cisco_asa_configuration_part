@@ -22,5 +22,5 @@ then
 		fi
 else
 	echo "Get ipcec config part from file"
-	echo "getpeer.sh [file] [peer]"
+	echo "asa_get_peer_cfg.sh [file] [peer]"
 fi
