@@ -1,1 +1,5 @@
-# cisco_asa_configuration_part
+# Getting cisco asa configuration part ipsec
+
+## command line
+asa_get_peer_cfg.sh [file] [peer]
+
